@@ -21,12 +21,12 @@
     <link href="css/bootstrap.min.css" rel="stylesheet"> 
 
     <!-- Custom CSS -->
-    <link href="http://www.kawolegal.com/assets/css/style.css" rel="stylesheet">
+    <link href="https://www.kawolegal.com/assets/css/style.css" rel="stylesheet">
     
 
 
     <!-- Fonts CSS -->
-    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,200,500,600,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,200,500,600,700' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
